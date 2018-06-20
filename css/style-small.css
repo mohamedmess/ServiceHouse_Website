@@ -1,0 +1,61 @@
+/*
+	Transit by TEMPLATED
+	templated.co @templatedco
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+*/
+
+/* Basic */
+
+	body, input, select, textarea {
+		font-size: 12pt;
+	}
+
+/* Banner */
+
+	#banner {
+		padding: 8em 2em 8em;
+	}
+	#banner p:nth-of-type(2)
+	{
+		font-size : 1.1em,;
+		width : 95%
+	}
+	#banner > ul > li button
+		{
+			font-size : 11pt;
+			height : 2.5em;
+			width : 70%;
+			padding : 0 1.2em;
+			line-height : 2.5em;
+			border-radius : 20px;
+			font-weight : 300px
+		}
+	
+/* Wrapper */
+
+	.wrapper {
+		padding: 4em 0em 2em;
+		/* Style 2 Wrapper */
+	}
+	.wrapper.style2 .profiles > div > img
+		{			
+			width  : 420px; 
+			height : 250px
+		}	
+
+		.wrapper.style2 footer {
+			width: 85%;
+		}
+
+/* Footer */
+
+	#footer {
+		padding: 4em 0em 2em;
+	}
+
+		#footer .copyright li {
+			border-left: 0;
+			margin-left: 0;
+			padding-left: 0;
+			display: block;
+		}
